@@ -1,6 +1,12 @@
- <h1>kashish dawar</h1>
-<h2>pandu hai </h2>
-<h3>learning jenkins</h3>
-<h4>Heading 4</h4>
-<h5>Heading 5</h5>
-<h6>Heading 6</h6> 
+  <!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html> 
